@@ -17,6 +17,7 @@
     "gatsby-remark-prismjs": "^2.0.1",
     "gatsby-source-filesystem": "^1.5.33",
     "gatsby-transformer-remark": "^1.7.40",
+    "netlify-cms": "^1.7.0",
     "prismjs": "^1.14.0",
     "react-helmet": "^5.2.0",
     "reactstrap": "^6.1.0"
