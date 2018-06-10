@@ -26,6 +26,7 @@ npm start
 ## Accessing the CMS
 
 Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
+[my cms](https://kind-mcclintock-6efdbf.netlify.com/)
 
 ### Configuration
 
