@@ -24,7 +24,9 @@ build/Release
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
+# Check node_modules into git for things you deploy, such as websites and apps.
+# Do not check node_modules into git for libraries and modules intended to be reused.
+# node_modules
 .gatsby-context.js
 .sass-cache/
 public/
