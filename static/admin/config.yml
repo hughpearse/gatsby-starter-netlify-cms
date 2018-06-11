@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: gatsby-starter-netlify-cms
   branch: master
 
 media_folder: "/static/files/"
